@@ -1,0 +1,19 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# 视频数据
+*.mp4
+*.avi
+
+# 程序生成结果
+lane_result.png
+
+# 模型权重
+*.pt
+*.pth
+
+# 虚拟环境
+venv/
+.venv/
+env/
